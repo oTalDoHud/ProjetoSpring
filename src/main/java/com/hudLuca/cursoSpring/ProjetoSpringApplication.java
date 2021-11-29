@@ -1,4 +1,4 @@
-package com.hudLuca.cursoSpring;
+package com.hudLuca.cursospring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
